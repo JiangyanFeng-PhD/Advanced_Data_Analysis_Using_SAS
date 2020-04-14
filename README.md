@@ -3,7 +3,6 @@
 SAS codes to analyze data in "Advanced Data Analysis" course (STAT448 at University of Illinois at Urbana-Champaign)
 
 
-## Final Project
 
 ## Authors
 
